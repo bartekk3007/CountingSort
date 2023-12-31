@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\48571\source\repos\CountingSort\main.c(41): warning C4715: 'countingSort': not all control paths return a value
+  CountingSort.vcxproj -> C:\Users\48571\source\repos\CountingSort\x64\Debug\CountingSort.exe
